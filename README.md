@@ -16,4 +16,6 @@ Classic game ROCK, PAPER, SCISSORS to play in the browser. Built with JavaScript
 - Paper beats Rock.
 - Click 'Reset Score' button to reset Game.
 - Play again!
+
+
 ![image](https://github.com/user-attachments/assets/5a5c0be7-1e79-46ee-8b2a-c882747aeaac)
